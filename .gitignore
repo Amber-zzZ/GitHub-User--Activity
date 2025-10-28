@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Env & config
+.env
+.env.local

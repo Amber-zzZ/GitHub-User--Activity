@@ -1,0 +1,28 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Amber-zzZ/GitHub-User--Activity#readme",
+  "bugs": {
+    "url": "https://github.com/Amber-zzZ/GitHub-User--Activity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amber-zzZ/GitHub-User--Activity.git"
+  },
+  "license": "ISC",
+  "author": "Amber",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-ts": "^8.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "typescript": "^5.9.3"
+  },
+  "keywords": []
+}
